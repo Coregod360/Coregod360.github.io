@@ -1,7 +1,7 @@
 #wrapper{
     margin:0;
     width:100%;
-    background-image: url("/background.jpg");
+    background-image: url("../window/images/background.jpg");
   }
 
 #open{

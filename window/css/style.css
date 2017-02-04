@@ -7,3 +7,9 @@
 #open{
     font-size:100pt;
 }
+
+.intro{
+    font-size:500px;
+    color:green;
+    float:right;
+}

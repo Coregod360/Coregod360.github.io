@@ -24,6 +24,8 @@ body *
 }
 body
 {
+  margin-top:500px;
+  margin-left:500px
   background:transparent;
   width: __UP_rdW__px;
   height: __UP_rdH__px;
